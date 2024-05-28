@@ -6,7 +6,7 @@
   mehmethansin@gmail.com
 </details>
 
-PanBot (Beta v0.4): [PanBot InviteLink](https://discord.com/oauth2/authorize?client_id=1040930838700892211&permissions=1644971949559&scope=bot%20applications.commands)
+PanBot (Beta v0.4): [PanBot InviteLink](PRIVATE)
 
 Obscure Tec. Bot (WIP): [OT Bot Invite Link](https://www.pancstar.com/contact-us/)
 
