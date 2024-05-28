@@ -6,7 +6,7 @@
   mehmethansin@gmail.com
 </details>
 
-PanBot (Beta v0.4): [PanBot InviteLink](PRIVATE)
+PanBot (Beta v0.4): [Please contact for the invitation link."]
 
 Obscure Tec. Bot (WIP): [OT Bot Invite Link](https://www.pancstar.com/contact-us/)
 
